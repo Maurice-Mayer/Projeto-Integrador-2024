@@ -1,0 +1,15 @@
+C:\AprendaAProgramar\PROJETO INTEGRADOR  1\bin\Debug\net7.0\PROJETO INTEGRADOR  1.exe
+C:\AprendaAProgramar\PROJETO INTEGRADOR  1\bin\Debug\net7.0\PROJETO INTEGRADOR  1.deps.json
+C:\AprendaAProgramar\PROJETO INTEGRADOR  1\bin\Debug\net7.0\PROJETO INTEGRADOR  1.runtimeconfig.json
+C:\AprendaAProgramar\PROJETO INTEGRADOR  1\bin\Debug\net7.0\PROJETO INTEGRADOR  1.dll
+C:\AprendaAProgramar\PROJETO INTEGRADOR  1\bin\Debug\net7.0\PROJETO INTEGRADOR  1.pdb
+C:\AprendaAProgramar\PROJETO INTEGRADOR  1\obj\Debug\net7.0\PROJETO INTEGRADOR  1.csproj.AssemblyReference.cache
+C:\AprendaAProgramar\PROJETO INTEGRADOR  1\obj\Debug\net7.0\PROJETO INTEGRADOR  1.GeneratedMSBuildEditorConfig.editorconfig
+C:\AprendaAProgramar\PROJETO INTEGRADOR  1\obj\Debug\net7.0\PROJETO INTEGRADOR  1.AssemblyInfoInputs.cache
+C:\AprendaAProgramar\PROJETO INTEGRADOR  1\obj\Debug\net7.0\PROJETO INTEGRADOR  1.AssemblyInfo.cs
+C:\AprendaAProgramar\PROJETO INTEGRADOR  1\obj\Debug\net7.0\PROJETO INTEGRADOR  1.csproj.CoreCompileInputs.cache
+C:\AprendaAProgramar\PROJETO INTEGRADOR  1\obj\Debug\net7.0\PROJETO INTEGRADOR  1.dll
+C:\AprendaAProgramar\PROJETO INTEGRADOR  1\obj\Debug\net7.0\refint\PROJETO INTEGRADOR  1.dll
+C:\AprendaAProgramar\PROJETO INTEGRADOR  1\obj\Debug\net7.0\PROJETO INTEGRADOR  1.pdb
+C:\AprendaAProgramar\PROJETO INTEGRADOR  1\obj\Debug\net7.0\PROJETO INTEGRADOR  1.genruntimeconfig.cache
+C:\AprendaAProgramar\PROJETO INTEGRADOR  1\obj\Debug\net7.0\ref\PROJETO INTEGRADOR  1.dll
