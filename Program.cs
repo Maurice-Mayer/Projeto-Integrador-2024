@@ -1,5 +1,15 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+// Protótipo 1
+
+// Console.WriteLine("OLá Mundo");
+// Console.WriteLine("Leo Andrade");
+
+// Protótipo 2
+
+// var resultado = 20 - 10;
+// Console.WriteLine(" Resultado " + resultado);
+
 // Exercício Principal
 
 // Começamos pedindo para o usuário entrar com as 4 notas necessárias
